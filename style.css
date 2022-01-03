@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(71, 255, 184, 0.61);
+}
+h1{
+    color: blueviolet;
+    border: 2px solid red;
+    border-style: dashed;
+    border-radius: 15px;
+    text-align: center;
+    background-color: yellow;
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 50px;
+}
+.blog{
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: darkcyan;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.blog p{
+    text-align: justify;
+}
+.blog form{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
